@@ -27,7 +27,6 @@
 ### 🔹 **Backend Development**
 - 🔥 **Languages:** Java (Spring Boot), Python (Flask, FastAPI)
 - 🔗 **API Development:** RESTful API, OpenAPI
-- 🔒 **Security:** Spring Security, JWT
 
 ### ☁️ **Cloud & DevOps (Basic)**
 - 🌩 **Cloud Platforms:** AWS, K-PaaS
