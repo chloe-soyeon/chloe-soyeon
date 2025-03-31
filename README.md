@@ -8,7 +8,7 @@
 - 📚 **Strong Business Acumen in Supply Chain, Procurement, and Logistics**
 - 🌎 **Proficient in English (Fluent in Business & Technical Communication)**
 - 🏆 **Awards & Publications**
-  - 🏅 **한이음 ICT 공모전 입상** (*아이두 프로젝트*)
+  - 🏅 **한이음 ICT 공모전 입선** (*아이두 프로젝트*)
   - 🎯 **DreamHigh 프로젝트** (*다문화 가정 학생을 위한 대학 지원 서비스*)
   - 📜 **논문: 아동 발달 상태 측정을 위한 독서 에듀테크 플랫폼 연구** (*한국정보처리학회 학술대회 발표*)
 - 🎯 **Completed K-PaaS Specialist Course**
@@ -34,7 +34,7 @@
 - 🧠 **Machine Learning & AI:** TensorFlow.js, annyang API (Speech Recognition)
 - 🎥 **Computer Vision & Motion Recognition:** Google Teachable Machine
 - 📊 **Data Processing & Analytics:** SQL, NoSQL
-- 📈 **Data Visualization:** Matplotlib, Seaborn
+- 📈 **Data Visualization:** Matplotlib
 
 ### 🏆 **Certifications**
 - 📜 **ADsP (데이터 분석 준전문가)**
@@ -59,7 +59,7 @@
 - 📖 **EdTech Platform** (*Multisensory Reading & Motion Recognition for Kids*)
   - 🛠 **Tech Stack:** TensorFlow.js, annyang API, Spring Boot, MariaDB
 - 🤖 **AI Chatbot** (*Interactive Chatbot using Spring Boot & LLMs*)
-  - 🛠 **Tech Stack:** Spring Boot, OpenAPI, Python (Flask, FastAPI)
+  - 🛠 **Tech Stack:** Spring Boot, OpenAPI
 
 ---
 
