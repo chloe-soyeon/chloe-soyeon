@@ -38,7 +38,9 @@
 ## 🏆 Certifications
 - 📜 **ADsP (데이터 분석 준전문가)**
 - 📜 **SQLD (SQL 개발자)**
-- 📜 **DAsP (데이터 아키텍처 준전문가 🚀 Soyeon Kim | Developer & Data Analyst 🌍📊
+- 📜 **DAsP (데이터 아키텍처 준전문가)**
+- 📜 **KPM (구매자재관리사)**
+- 📜 **유통관리사 2급**
 
 ---
 
